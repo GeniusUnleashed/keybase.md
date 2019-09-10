@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am geniusunleashed on github.
+  * I am geniusunleashed (https://keybase.io/geniusunleashed) on keybase.
+  * I have a public key ASDorlErLa9C6OQjzXJ4OXRUxGBwhaI1vFBpzXHnqn0lXQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d15819b582de8bd9a92ee1a843d4246e9a5ccac314845bfbff2ffebe31aca68f0a",
+      "host": "keybase.io",
+      "kid": "0120e8ae512b2daf42e8e423cd7278397454c4607085a235bc5069cd71e7aa7d255d0a",
+      "uid": "92d6a6530c0f020b8b051ebd8b85bc19",
+      "username": "geniusunleashed"
+    },
+    "merkle_root": {
+      "ctime": 1568139444,
+      "hash": "67d19f9f072644472076cd87a2b7a6b97342ed35a9abe919c6bf1599604dd233212bc1c5221cd5140043ff86b1000b14017bfdc4ceb0f3cac3c5ce5dc2efad00",
+      "hash_meta": "fae110b54a2fdbb16d45a502d49d38ede7ce0d6557b6e96be240fae9601b1558",
+      "seqno": 6487181
+    },
+    "service": {
+      "entropy": "Eq+9R+2QNCy+lrN7gJVEWrGn",
+      "name": "github",
+      "username": "geniusunleashed"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568139450,
+  "expire_in": 504576000,
+  "prev": "eadefd1347c27bd2b08ab51e5918ef12b0b3372fb743446e5a826d1e7f411547",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASDorlErLa9C6OQjzXJ4OXRUxGBwhaI1vFBpzXHnqn0lXQo](https://keybase.io/geniusunleashed), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6K5RKy2vQujkI81yeDl0VMRgcIWiNbxQac1x56p9JV0Kp3BheWxvYWTESpcCDsQg6t79E0fCe9KwirUeWRjvErCzNy+3Q0RuWoJtHn9BFUfEIKBeY+SHAKIxYFdYcZLNyrx309HQRHwrkMRJU7q/tKQJAgHCo3NpZ8RAuUhAcDNY4YiA6QMRUYcTCIiGKlFts1gNOp9ddoRshfJXk9OkvbJH0+Z5uBeMoRmklhjQuBrsgLlerkeTbh9bA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDNtoiiXmQ4x9GtIAwMIDe1eTu16HAvQHjGdV18nnkMoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/geniusunleashed
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id geniusunleashed
+```
